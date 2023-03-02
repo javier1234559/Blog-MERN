@@ -1,7 +1,7 @@
 
 Danh sách các thành viên :
 - 20110043 - Định Quân 
--   - Huỳnh Công
+- 19110219 - Trịnh Công Huynh
 - 20161347 - Nguyễn Bùi Minh Nhật
 
 Link Notion ghi chú : [Ghi chú ](https://javier1234559.notion.site/Blog-Website-with-MERN-stack-8ef3d156fe90443984591092171c1168)
